@@ -1,9 +1,12 @@
-[submodule "hw4"]
-	path = hw4
-	url = https://github.com/dlcv-spring-2019/hw4-qhan1028.git
-[submodule "hw3"]
-	path = hw3
-	url = https://github.com/dlcv-spring-2019/hw3-qhan1028.git
 [submodule "hw2"]
 	path = hw2
 	url = https://github.com/dlcv-spring-2019/hw2-qhan1028.git
+[submodule "hw3"]
+	path = hw3
+	url = https://github.com/dlcv-spring-2019/hw3-qhan1028.git
+[submodule "hw4"]
+	path = hw4
+	url = https://github.com/dlcv-spring-2019/hw4-qhan1028.git
+[submodule "final"]
+	path = final
+	url = git@github.com:dlcv-spring-2019/final-noobbaseline.git
